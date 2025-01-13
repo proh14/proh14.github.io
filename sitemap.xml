@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://proh14.net/posts/hello/</loc>
+    <loc>http://proh14.github.io/posts/hello/</loc>
     <lastmod>2023-12-23T15:32:56+13:00</lastmod>
   </url><url>
-    <loc>http://proh14.net/</loc>
+    <loc>http://proh14.github.io/</loc>
     <lastmod>2024-07-19T10:24:18+12:00</lastmod>
   </url><url>
-    <loc>http://proh14.net/projects/</loc>
+    <loc>http://proh14.github.io/projects/</loc>
     <lastmod>2024-07-19T10:24:18+12:00</lastmod>
   </url><url>
-    <loc>http://proh14.net/posts/</loc>
+    <loc>http://proh14.github.io/posts/</loc>
     <lastmod>2024-01-08T14:55:23+13:00</lastmod>
   </url><url>
-    <loc>http://proh14.net/categories/</loc>
+    <loc>http://proh14.github.io/categories/</loc>
   </url><url>
-    <loc>http://proh14.net/tags/</loc>
+    <loc>http://proh14.github.io/tags/</loc>
   </url>
 </urlset>

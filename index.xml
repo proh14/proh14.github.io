@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>proh14</title>
-    <link>http://proh14.net/</link>
+    <link>http://proh14.github.io/</link>
     <description>Recent content on proh14</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 23 Dec 2023 15:32:56 +1300</lastBuildDate>
-    <atom:link href="http://proh14.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://proh14.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://proh14.net/posts/hello/</link>
+      <link>http://proh14.github.io/posts/hello/</link>
       <pubDate>Sat, 23 Dec 2023 15:32:56 +1300</pubDate>
-      <guid>http://proh14.net/posts/hello/</guid>
+      <guid>http://proh14.github.io/posts/hello/</guid>
       <description></description>
     </item>
   </channel>
